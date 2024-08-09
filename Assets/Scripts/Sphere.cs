@@ -1,8 +1,0 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-public class Sphere : MonoBehaviour
-{
-    [SerializeField] float _speed;
-}
